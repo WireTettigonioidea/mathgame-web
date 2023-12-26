@@ -19,8 +19,8 @@
 
     <title>Scores</title>
 </head>
-<body class="d-flex justify-content-center">
-<div class="container m-5">
+<body class="d-flex justify-content-center" style="background-color: #cdcdcd">
+<div class="container m-5" id="score-container">
     <div class="d-flex container w-100 justify-content-center">
         <div>
             <h1 class="text-center">Scores</h1><br>
